@@ -1,0 +1,22 @@
+body {
+ background-color: white;
+}
+
+
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.info{
+  width:100vw;
+}
+
+.photo{
+  width:20%;
+  
+}
+
+/* .info > h2,h3,h4{
+} */
